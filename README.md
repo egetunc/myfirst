@@ -1,1 +1,1 @@
-# myfirst
+# Sunucumun discord botudur.
